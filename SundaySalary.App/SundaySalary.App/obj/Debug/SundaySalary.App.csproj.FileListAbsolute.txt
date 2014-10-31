@@ -1,0 +1,9 @@
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\bin\Debug\SundaySalary.App.exe.config
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\bin\Debug\SundaySalary.App.exe
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\bin\Debug\SundaySalary.App.pdb
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\obj\Debug\SundaySalary.App.csprojResolveAssemblyReference.cache
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\obj\Debug\SundaySalary.App.SalaryUI.resources
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\obj\Debug\SundaySalary.App.Properties.Resources.resources
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\obj\Debug\SundaySalary.App.csproj.GenerateResource.Cache
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\obj\Debug\SundaySalary.App.exe
+c:\users\user-pc\documents\visual studio 2012\Projects\SundaySalary.App\SundaySalary.App\obj\Debug\SundaySalary.App.pdb
